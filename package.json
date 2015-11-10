@@ -1,6 +1,6 @@
 {
   "name": "kintsugi-build",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Overridable default build tasks for the Kintsugi application toolkit",
   "main": "index.js",
   "scripts": {
